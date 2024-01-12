@@ -1,0 +1,7 @@
+@article{REPO165,
+    author = "Iana, Andreea and Glavas, Goran and Paulheim, Heiko",
+    booktitle = "Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    pages = "2384--2388",
+    title = "{Simplifying Content-Based Neural News Recommendation: On User Modeling and Training Objectives}",
+    year = "2023"
+}
